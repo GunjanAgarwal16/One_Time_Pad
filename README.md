@@ -25,17 +25,21 @@ This project aims to demonstrate the importance of secure communication and the 
 To use the One-Time Pad encryption and decryption program, follow these steps:
 
 1. Clone the repository:
+     ```bash
     git clone https://github.com/your-username/one-time-pad.git
+    
 2. Navigate to the project directory:
    cd one-time-pad
 3. Ensure you have Python 3 installed on your system. If not, you can download it from the official Python website.
 
 4. Install the required dependencies:
+    ```bash
    pip install -r requirements.txt
    
 ## Usage
 1. Run the program:
-python otp.py
+    ```bash
+    python otp.py
 
 2. The program will display a menu with options for encryption, decryption, and exiting.
 
